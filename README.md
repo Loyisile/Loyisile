@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Loyisile
 - 👀 I’m interested in learning how to code and create websites
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Java
 - 📫 How to reach me: loyisiledlomo@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact:I am not afraid of snakes
